@@ -92,8 +92,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel2022 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
